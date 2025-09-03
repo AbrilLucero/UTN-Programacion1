@@ -2,3 +2,4 @@
 
 lista_múltiplo_4 = []
 
+HSCBASKCBASCJACBN
